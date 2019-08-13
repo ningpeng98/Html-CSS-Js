@@ -53,8 +53,8 @@ if(表达式){
     1.switch语句结束条件
 *   遇见break,条件结束
 *   程序默认执行到末尾
-  2.表达式可以是：string，number，boolean...
-  **3.case后面的值可以是常量也可以是变量**
+    2.表达式可以是：string，number，boolean...
+    **3.case后面的值可以是常量也可以是变量**
 #####   for-in语句
 格式：
 ```
@@ -69,3 +69,4 @@ with(文档对象：如document){
    具体逻辑；    
 }
 ```
+
